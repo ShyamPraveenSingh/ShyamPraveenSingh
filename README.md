@@ -4,4 +4,4 @@ Hi, I'm Shyam - first year student studying at Government College of Engineering
 [![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamPraveenSingh&hide=["issues","prs"]))](https://github.com/ShyamPraveenSingh/github-readme-stats)
 
 
-![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamPraveenSinghv&hide=["issues","prs"]&show_icons=true)
+![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamPraveenSinghv&show_icons=true)
