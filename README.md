@@ -12,7 +12,7 @@ Hi, <b> I'm Shyam </b> -- second year engineering student studying at Government
 </a>
 
 
-
-<p align="center">
-<img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/shyam.png"> 
+<br>
+<p align="left">
+<img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/shyam.png" width=845> 
 </p>
