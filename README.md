@@ -5,11 +5,12 @@ Hi, <b> I'm Shyam </b> -- second year engineering student studying at Government
 </p>
 
 
-![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamPraveenSingh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamPraveenSingh&layout=compact&theme=radical)](https://github.com/ShyamPraveenSingh/github-readme-stats)
-
-
-
-
+<a href="https://github.com/ShyamPraveenSingh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyamPraveenSingh&show_icons=true&include_all_commits=true&theme=radical" alt="Shyam's github stats" />
+</a>
+<a href="https://github.com/ShyamPraveenSingh/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamPraveenSingh&layout=compact&theme=radical" />
+</a>
