@@ -11,12 +11,12 @@ Hi, <b> I'm Shyam </b> -- second year engineering student studying at Government
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamPraveenSingh&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/ShyamPraveenSingh/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+<a href="https://github.com/ShyamPraveenSingh/Weather-Forecast-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=Weather-Forecast-App&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+<a href="https://github.com/ShyamPraveenSingh/School-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=School-Website&theme=radical" />
 </a>
 
