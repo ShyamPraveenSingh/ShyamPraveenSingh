@@ -1,9 +1,5 @@
 Hi, <b> I'm Shyam </b> -- second year engineering student studying at Government College of Engineering, Tirunelveli, Tamilnadu. I like learning and experimenting with new technologies, building small projects and occassionally tinkering with electronics.
 
-<p align="center">
-<img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/shyam.png"> 
-</p>
-
 
 
 
@@ -14,3 +10,9 @@ Hi, <b> I'm Shyam </b> -- second year engineering student studying at Government
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamPraveenSingh&layout=compact&theme=radical" />
 </a>
+
+
+
+<p align="center">
+<img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/shyam.png"> 
+</p>
