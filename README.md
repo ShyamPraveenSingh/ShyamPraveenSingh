@@ -7,4 +7,9 @@ Hi, <b> I'm Shyam </b> -- second year engineering student studying at Government
 
 ![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamPraveenSingh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![HitCount](http://hits.dwyl.com/ShyamPraveenSingh/{project}.svg)](http://hits.dwyl.com/ShyamPraveenSingh/{project})
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamPraveenSingh&layout=compact&theme=radical)](https://github.com/ShyamPraveenSingh/github-readme-stats)
+
+
+
+
