@@ -1,4 +1,10 @@
 Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Government College of Engineering, Tirunelveli, Tamilnadu. I like learning and experimenting with new technologies, building small projects and occassionally tinkering with electronics.
+<br>
+<p align="left">
+  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
+  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
+</p>
+
 
 <i>*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i>
 
@@ -22,7 +28,3 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamPraveenSingh" alt="ShyamPraveenSingh" /> </p>
 
 <br>
-<p align="left">
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
-</p>
