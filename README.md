@@ -23,7 +23,8 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
 </a>
 
 
-<br>
+<br><br>
 <p align="left">
-<img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=845 height=600> 
+<img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" /> 
+<img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" />
 </p>
