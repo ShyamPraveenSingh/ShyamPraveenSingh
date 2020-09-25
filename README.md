@@ -3,10 +3,8 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
 <i>*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamPraveenSingh" alt="ShyamPraveenSingh" /> </p>
 
-<a href="https://github.com/ShyamPraveenSingh/github-readme-stats">
-  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" /> 
+<a href="https://github.com/ShyamPraveenSingh/github-readme-stats"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyamPraveenSingh&show_icons=true&include_all_commits=true&theme=radical" alt="Shyam's github stats" />
 </a>
 <a href="https://github.com/ShyamPraveenSingh/github-readme-stats">
@@ -23,9 +21,11 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=School-Website&theme=radical" />
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamPraveenSingh" alt="ShyamPraveenSingh" /> </p>
 
 <br>
 <p align="left">
 
+<img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" />
 <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
 </p>
