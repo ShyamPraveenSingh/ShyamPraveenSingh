@@ -5,6 +5,7 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamPraveenSingh" alt="ShyamPraveenSingh" /> </p>
 
 <i>*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i>
 
@@ -24,7 +25,5 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
 <a href="https://github.com/ShyamPraveenSingh/School-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=School-Website&theme=radical" />
 </a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamPraveenSingh" alt="ShyamPraveenSingh" /> </p>
 
 <br>
