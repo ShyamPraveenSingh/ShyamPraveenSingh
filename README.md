@@ -4,10 +4,10 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
 
 
 <a href="https://github.com/ShyamPraveenSingh/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyamPraveenSingh&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Shyam's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyamPraveenSingh&count_private=true&theme=radical" alt="Shyam's github stats" />
 </a>
+
 <a href="https://github.com/ShyamPraveenSingh/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamPraveenSingh&layout=compact&theme=radical" />
 </a>
 
