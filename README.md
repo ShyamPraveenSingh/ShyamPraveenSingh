@@ -26,4 +26,3 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=School-Website&theme=radical" />
 </a>
 
-<br>
