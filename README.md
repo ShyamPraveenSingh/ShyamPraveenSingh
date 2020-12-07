@@ -17,7 +17,6 @@ Hi, <b> I'm Shyam  👋</b> -- second year engineering student studying at Gover
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamPraveenSingh&layout=compact&theme=radical" />
 </a>
 
-
 <a href="https://github.com/ShyamPraveenSingh/Weather-Forecast-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=Weather-Forecast-App&theme=radical" />
 </a>    
