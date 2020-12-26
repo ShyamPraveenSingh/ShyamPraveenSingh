@@ -21,6 +21,7 @@ Hi, My name is <b> Shyam Praveen Singh 👋</b> -- I'm a sophomore at Government
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=Weather-Forecast-App&theme=radical" />
 </a>    
 
+
 <a href="https://github.com/ShyamPraveenSingh/School-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=School-Website&theme=radical" />
 </a>
