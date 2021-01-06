@@ -1,6 +1,5 @@
 Hi, My name is <b> Shyam Praveen Singh 👋</b> -- I'm a sophomore at Government College of Engineering, Tirunelveli, Tamilnadu. I like learning and experimenting with new technologies, building small projects and occassionally tinkering with electronics.
 <br>
-
 <p align="left">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
