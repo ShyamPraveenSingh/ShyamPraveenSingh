@@ -23,3 +23,10 @@ Hi, My name is <b> Shyam Praveen Singh 👋</b> -- I'm a sophomore at Government
 <a href="https://github.com/ShyamPraveenSingh/School-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShyamPraveenSingh&repo=School-Website&theme=radical" />
 </a>
+
+<div align="center">
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ItsShyam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
+</div>
+<br>
+<h3 align="right">👋 Have the Best Day you can 🌈</h3>
