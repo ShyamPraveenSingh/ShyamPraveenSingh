@@ -1,6 +1,11 @@
-Hi, My name is <b> Shyam Praveen Singh 👋</b> -- I'm a sophomore at Government College of Engineering, Tirunelveli, Tamilnadu. I like learning and experimenting with new technologies, building small projects and occasionally tinkering with electronics.
+      
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm <a href="https://ShyamPraveenSingh"> Shyam Praveen Singh </a></h1>
+<Add the portfolio profile instead of the github profile>      
+  
+<h4 align="center" > I am in pre-final year at Government College of Engineering, Tirunelveli, Tamilnadu. I like learning and experimenting with new technologies, building small projects and occasionally tinkering with electronics. </h4>
 <br>
-<p align="left">
+  
+<p align="center">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
 </p>
@@ -31,10 +36,45 @@ Hi, My name is <b> Shyam Praveen Singh 👋</b> -- I'm a sophomore at Government
   </a>
 </p>
 
-<div align="center">
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ItsShyam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
-</div>
-<br>
 
-<h3 align="right">👋 Have the Best Day you can 🌈</h3>
+
+
+### :zap: GitHub Trophies 🏆
+  
+  
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShyamPraveenSingh&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
+  </a>
+</p> 
+  
+  
+  
+
+
+
+                                                                                                                                       
+                                                                                                                                       
+<br>                                                                                                                                       
+<h4 align="center">Hey, Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
+
+<p align="center">
+  <code><a href="http://linkedin.com/in/shyampraveensingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
+  <code><a href="https://www.instagram.com/shyampraveensingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Akash's Instagram" width="40px" /></a></code>
+  <code><a href="https://www.facebook.com/ShyamSingha/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Akash's Facebook" width="40px" /></a></code>
+  <code><a href="https://twitter.com/CodingSingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="40px" /></a></code>
+  <code><a href="https://t.me/ShyamPraveenSingh" target="blank"><img align="center" 
+  <code><a href="https://github.com/ShyamPraveenSingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="50px"/></a></code> 
+  
+ 
+</p>
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>     
+
+
+
+
+
+
+
