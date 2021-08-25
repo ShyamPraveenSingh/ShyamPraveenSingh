@@ -57,7 +57,7 @@
                                                                                                                                        
                                                                                                                                        
 <br>                                                                                                                                       
-<h4 align="center">Hey, Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
+<h3 align="center">Hey, Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h3>
 
 <p align="center">
   <code><a href="http://linkedin.com/in/shyampraveensingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
