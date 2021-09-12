@@ -37,8 +37,6 @@
 </p>
 
 
-
-
 ### :zap: GitHub Trophies 🏆
   
   
@@ -50,11 +48,7 @@
 </p> 
   
   
-  
-
-
-
-                                                                                                                                       
+                                                                                                                                  
                                                                                                                                        
 <br>                                                                                                                                       
 <h3 align="center">Hey, Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h3>
