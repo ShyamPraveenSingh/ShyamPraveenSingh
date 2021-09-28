@@ -5,6 +5,7 @@
 <h4 align="center" > I am in pre-final year at Government College of Engineering, Tirunelveli, Tamilnadu. I like learning and experimenting with new technologies, building small projects and occasionally tinkering with electronics. </h4>
 <br>
   
+      
 <p align="center">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
@@ -40,15 +41,13 @@
 ### :zap: GitHub Trophies 🏆
   
   
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=ShyamPraveenSingh&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
   </a>
 </p> 
   
-  
-                                                                                                                                  
+                                                                                                                                 
                                                                                                                                        
 <br>                                                                                                                                       
 <h3 align="center">Hey, Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h3>
