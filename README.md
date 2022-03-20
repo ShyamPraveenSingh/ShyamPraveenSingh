@@ -50,7 +50,7 @@
 
 <p align="center">
   <code><a href="http://linkedin.com/in/shyampraveensingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
-  <code><a href="https://www.instagram.com/shyampraveensingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Akash's Instagram" width="40px" /></a></code>
+  <code><a href="https://www.instagram.com/shyampraveensingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Shyam's Instagram" width="40px" /></a></code>
   <code><a href="https://www.facebook.com/ShyamPraveenSingh/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Akash's Facebook" width="40px" /></a></code>
   <code><a href="https://twitter.com/CodingSingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="40px" /></a></code>
   <code><a href="https://t.me/ShyamPraveenSingh" target="blank"><img align="center" 
