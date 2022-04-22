@@ -56,7 +56,6 @@
   <code><a href="https://t.me/ShyamPraveenSingh" target="blank"><img align="center" 
   <code><a href="https://github.com/ShyamPraveenSingh" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="50px"/></a></code> 
   
- 
 </p>
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>     
