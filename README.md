@@ -1,6 +1,7 @@
+[![Sponsor ShyamPraveenSingh](https://img.shields.io/badge/Sponsor-ShyamPraveenSingh-blue?style=for-the-badge)](https://github.com/sponsors/ShyamPraveenSingh)
 <h1 align="center">Hello <img src="https://media.giphy.com/media/lmpOoSDyif7aGtwi8S/giphy.gif" width="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm <a href="https://ShyamPraveenSingh"> Shyam Praveen Singh </a></h1>
 <Add the portfolio profile instead of the github profile>      
-<h4 align="center" > I am in final year at Government College of Engineering, Tirunelveli, Tamilnadu. I like learning and experimenting with new technologies, building small projects and occasionally tinkering with electronics. </h4>
+<h4 align="center" > I am a Software Engineer with a passion for coding across Network Protocols, Backend Development, and Full Stack Engineering. I thrive on building scalable solutions, optimizing system performance, and occasionally diving into low-level networking magic. When I'm not coding, you can find me experimenting with new technologies, crafting side projects, and pushing the boundaries of what's possible in software. </h4>
 <br>        
 <p align="center">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
@@ -41,4 +42,3 @@
   </a>
 </p> 
 <br>                                                                                                                                       
-<iframe src="https://github.com/sponsors/ShyamPraveenSingh/button" title="Sponsor ShyamPraveenSingh" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
